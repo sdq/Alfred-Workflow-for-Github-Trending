@@ -1,6 +1,6 @@
 # Alfred-Workflow-for-Github-Trending
 
-###Welcome to [githubtrending.com](http://githubtrending.com)
+###Welcome to use [Explorer for GitHub](http://exploregithub.strikingly.com/)
 
 This is an Alfred Workflow for Github Trending. [download](https://github.com/sdq/Alfred-Workflow-for-Github-Trending/blob/master/Github%20Trending.alfredworkflow)
 
